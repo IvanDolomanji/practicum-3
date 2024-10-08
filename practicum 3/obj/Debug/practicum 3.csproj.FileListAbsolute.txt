@@ -1,0 +1,7 @@
+D:\IT\practicum 3\bin\Debug\practicum 3.exe.config
+D:\IT\practicum 3\bin\Debug\practicum 3.exe
+D:\IT\practicum 3\bin\Debug\practicum 3.pdb
+D:\IT\practicum 3\obj\Debug\practicum 3.csproj.AssemblyReference.cache
+D:\IT\practicum 3\obj\Debug\practicum 3.csproj.CoreCompileInputs.cache
+D:\IT\practicum 3\obj\Debug\practicum 3.exe
+D:\IT\practicum 3\obj\Debug\practicum 3.pdb
